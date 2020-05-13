@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "eztable-demo"
+    }
+  },
+  "defaultProject": "eztable-demo",
+  "cli": {
+    "analytics": false
+  }
 }
